@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # AGENDA_WEB_PYTHON
 
@@ -56,3 +57,6 @@ Start the server
 
 ```
 
+=======
+# AGENDA_WEB_PY
+>>>>>>> 4a7d1b8a1cd7c582f6f7553495adbf548940273b
