@@ -11,9 +11,9 @@ Este proyecto personal fue desarrollado con **Python** utilizando **Django** par
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](resources//cap1.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](resources/cap2.png)
 
 ## Features
 
